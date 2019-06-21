@@ -222,7 +222,7 @@ button:focus,
  * Section Wrapper
  *-------------------*/
 .section-wrapper {
-    padding : 50px;
+    padding : 5px;
     }
 
 @media (max-width : 480px) {
