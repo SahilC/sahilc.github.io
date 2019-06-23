@@ -546,7 +546,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="copytext">Bakamax &copy; 2017. All rights reserved</div>
+			<div class="copytext">Bakamax &copy; <div id="year" style="display: inline"></div>. All rights reserved</div>
                 </div>
             </div>
             <!--.row-->
@@ -569,5 +569,13 @@
 <!-- Bootstrap -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/scripts.js"></script>
+<script type = "text/javascript">
+	function getYear() {
+        	var dt = new Date();
+        	return dt.getFullYear();
+	}
+	document.getElementById('year').innerHTML = getYear();
+	console.log(getYear());
+</script>
 </body>
 </html>
