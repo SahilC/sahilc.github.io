@@ -8,7 +8,7 @@ Following is a summary of the following [Twitter thread](https://twitter.com/Cam
 * The only thing that matter are relationships and experiences. 
 * More Money == More problems -- You are time rich.
 * Edit your life to be minimalistic. 
-* Be [multi-dimensional] (https://twitter.com/Camp4/status/1370798715057942534).
+* Be [multi-dimensional](https://twitter.com/Camp4/status/1370798715057942534).
 * Get fit -- Make it a lifestyle.
 * Write regularly. 
 * Don't do dumb things.
