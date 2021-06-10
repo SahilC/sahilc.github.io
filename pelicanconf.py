@@ -8,7 +8,7 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
-
+THEME = 'notmyidea'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
