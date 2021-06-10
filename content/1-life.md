@@ -3,7 +3,7 @@ Date: 2010-12-03 10:20
 Category: Life
 Tags: Life, Summary, Twitter
 
-Following is a summary of the following [Twitter thread](https://twitter.com/Camp4/status/1402689150353129472):-
+Summary of the following [Twitter thread](https://twitter.com/Camp4/status/1402689150353129472):-
 
 * The only thing that matter are relationships and experiences. 
 * More Money == More problems -- You are time rich.
