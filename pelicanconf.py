@@ -18,11 +18,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Social widget
-SOCIAL = (('Twitter', '@FlamesAlchemist'),
-          ('Instagram', 'Sahilc2200'),
-          ('Linkedin', 'sahilc'),
-          ('Facebook', 'Sahilc.1337'))
 
 DEFAULT_PAGINATION = 10
 
