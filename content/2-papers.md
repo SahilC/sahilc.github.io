@@ -1,5 +1,5 @@
 Title: GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
-Date: 2010-12-03 10:20
+Date: 2021-06-25 16:12
 Category: Paper
 Tags: Paper, Summary, Research
 
